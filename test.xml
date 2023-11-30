@@ -17,14 +17,14 @@
         <item>
             <title>Test Episode</title>
             <link>
-                https://dl.dropboxusercontent.com/scl/fi/s7n82o5qnsuy3v51em0s6/Test-Episode.mp3?rlkey=gwl0kam8npt1bgtvga8qquhaw&amp;dl=0</link>
+                https://drive.google.com/file/d/1kqwEzczV4qS5AcoT2koSmuzybx82Kih3/export?format=mp3</link>
             <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
             <description>test episode</description>
             <enclosure
-                url="https://dl.dropboxusercontent.com/scl/fi/s7n82o5qnsuy3v51em0s6/Test-Episode.mp3?rlkey=gwl0kam8npt1bgtvga8qquhaw&amp;dl=0"
+                url="https://drive.google.com/file/d/1kqwEzczV4qS5AcoT2koSmuzybx82Kih3/export?format=mp3"
                 length="36715125" type="audio/mpeg" />
             <guid>
-                https://dl.dropboxusercontent.com/scl/fi/s7n82o5qnsuy3v51em0s6/Test-Episode.mp3?rlkey=gwl0kam8npt1bgtvga8qquhaw&amp;dl=0</guid>
+                https://drive.google.com/file/d/1kqwEzczV4qS5AcoT2koSmuzybx82Kih3/export?format=mp3</guid>
         </item>
     </channel>
 </rss>
