@@ -16,13 +16,13 @@
         <copyright>Yuta copyright 2016</copyright>
         <item>
             <title>Test Episode</title>
-            <link>https://dl.dropboxusercontent.com/scl/fi/s7n82o5qnsuy3v51em0s6/Test-Episode.mp3</link>
+            <link>https://cors-anywhere.herokuapp.com/https://dl.dropboxusercontent.com/scl/fi/s7n82o5qnsuy3v51em0s6/Test-Episode.mp3</link>
             <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
             <description>test episode</description>
             <enclosure
-                url="https://dl.dropboxusercontent.com/scl/fi/s7n82o5qnsuy3v51em0s6/Test-Episode.mp3"
+                url="https://cors-anywhere.herokuapp.com/https://dl.dropboxusercontent.com/scl/fi/s7n82o5qnsuy3v51em0s6/Test-Episode.mp3"
                 length="36715125" type="audio/mpeg" />
-            <guid>https://dl.dropboxusercontent.com/scl/fi/s7n82o5qnsuy3v51em0s6/Test-Episode.mp3</guid>
+            <guid>https://cors-anywhere.herokuapp.com/https://dl.dropboxusercontent.com/scl/fi/s7n82o5qnsuy3v51em0s6/Test-Episode.mp3</guid>
         </item>
     </channel>
 </rss>
