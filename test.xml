@@ -1,30 +1,24 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-    xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
-        <title>RCP MDWAP</title>
-        <link></link>
-        <image>
-            <url>http://www.example.com/image3000x3000.png</url>
-            <title>RCP MDWAP</title>
-            <link></link>
-        </image>
-        <description>
-            RCP for MDWAP
-        </description>
+        <title>Your Podcast Title</title>
+        <description>Your podcast description.</description>
+        <link>Your podcast website or feed URL.</link>
         <language>en-us</language>
-        <copyright>Yuta copyright 2016</copyright>
+        <itunes:image href="URL_to_your_podcast_logo_image.jpg" />
+
+        <!-- Episode 1 -->
         <item>
-            <title>Test Episode</title>
-            <link>
-                https://drive.google.com/file/d/1kqwEzczV4qS5AcoT2koSmuzybx82Kih3/export?format=mp3</link>
-            <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
-            <description>test episode</description>
+            <title>Episode 1 Title</title>
+            <description>Episode 1 description.</description>
             <enclosure
                 url="https://drive.google.com/file/d/1kqwEzczV4qS5AcoT2koSmuzybx82Kih3/export?format=mp3"
-                length="36715125" type="audio/mpeg" />
-            <guid>
-                https://drive.google.com/file/d/1kqwEzczV4qS5AcoT2koSmuzybx82Kih3/export?format=mp3</guid>
+                length="FILE_SIZE_IN_BYTES" type="audio/mpeg" />
+            <pubDate>PUBLICATION_DATE_IN_RFC_822_FORMAT</pubDate>
+            <itunes:duration>DURATION_IN_SECONDS</itunes:duration>
         </item>
+
+        <!-- Add more episodes as needed -->
+
     </channel>
 </rss>
