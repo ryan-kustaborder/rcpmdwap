@@ -3,9 +3,9 @@
     <channel>
         <title>Your Podcast Title</title>
         <description>Your podcast description.</description>
-        <link>Your podcast website or feed URL.</link>
+        <link>https://ryan-kustaborder.github.io/rcpmdwap/test.xml</link>
         <language>en-us</language>
-        <itunes:image href="URL_to_your_podcast_logo_image.jpg" />
+        <itunes:image href="https://assets.pippa.io/shows/61b9f45b1a8cbe48893cedf4/show-cover.jpg" />
 
         <!-- Episode 1 -->
         <item>
@@ -14,8 +14,8 @@
             <enclosure
                 url="https://drive.google.com/file/d/1kqwEzczV4qS5AcoT2koSmuzybx82Kih3/export?format=mp3"
                 length="FILE_SIZE_IN_BYTES" type="audio/mpeg" />
-            <pubDate>PUBLICATION_DATE_IN_RFC_822_FORMAT</pubDate>
-            <itunes:duration>DURATION_IN_SECONDS</itunes:duration>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <itunes:duration>00:51:46</itunes:duration>
         </item>
 
         <!-- Add more episodes as needed -->
